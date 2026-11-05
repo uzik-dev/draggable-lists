@@ -35,4 +35,7 @@ jar {
     from("LICENSE.md") {
         rename { "LICENSE_${project.archives_base_name}.md" }
     }
+    from("LICENSE-GPL-3.0.txt") {
+        rename { "LICENSE-GPL-3.0_${project.archives_base_name}.txt" }
+    }
 }

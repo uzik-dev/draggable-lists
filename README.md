@@ -44,4 +44,4 @@ The jar is in `build/libs`. Needs JDK 26.
 
 ## License
 
-The original declares `GPL-3.0-only` in its mod metadata and on Modrinth, while its repository holds the LGPL 3 text in `LICENSE.md`. This port keeps both as they were.
+The original declares `GPL-3.0-only` in its mod metadata and on Modrinth, while its repository holds the LGPL 3 text in `LICENSE.md`. This port is distributed under GPL 3, which both allow: `LICENSE-GPL-3.0.txt` holds the full text, and the original `LICENSE.md` stays as it was.

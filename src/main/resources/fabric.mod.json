@@ -10,6 +10,10 @@
   "contributors": [
     "UZIK (Minecraft 26.3 port)"
   ],
+  "contact": {
+    "sources": "https://github.com/uzik-dev/draggable-lists",
+    "issues": "https://github.com/uzik-dev/draggable-lists/issues"
+  },
   "license": "GPL-3.0-only",
   "icon": "assets/draggable_lists/icon.png",
   "environment": "client",
