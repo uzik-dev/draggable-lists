@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "draggable_lists",
+  "version": "${version}",
+  "name": "Draggable Lists",
+  "description": "Drag servers and selected resource packs to reorder them. Client-side only.",
+  "authors": [
+    "MrMelon54"
+  ],
+  "contributors": [
+    "UZIK (Minecraft 26.3 port)"
+  ],
+  "license": "GPL-3.0-only",
+  "icon": "assets/draggable_lists/icon.png",
+  "environment": "client",
+  "mixins": [
+    "draggable_lists.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": ">=26.3 <26.4",
+    "java": ">=25"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.mrmelon54.DraggableLists.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "minVersion": "0.8",
+  "client": [
+    "packs.PackSelectionModel_EntryBaseMixin",
+    "packs.TransferableSelectionListMixin",
+    "packs.TransferableSelectionList_PackEntryMixin",
+    "server.OnlineServerEntryMixin",
+    "server.ServerSelectionListMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
